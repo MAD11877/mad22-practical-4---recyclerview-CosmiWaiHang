@@ -1,3 +1,7 @@
+# Welcome, Stonk
+
+![Stonk](https://i.kym-cdn.com/entries/icons/original/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg)
+
 # MAD Practical 4 - RecyclerView
 Continuing from last week, you will be adding RecyclerView to your app. <br/>
 Follow the instructions below to complete your app.
